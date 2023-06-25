@@ -17,4 +17,4 @@
 17. Smart manufacturing
 18. Cognitive automation
 19. Digital transformation in robotics
-20. Personalized robotics solutions.
+20. Personalized robotics solutions
