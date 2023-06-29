@@ -9,4 +9,3 @@ There are several different types of robots used in the industry, each designed 
 
 The robotics industry is constantly evolving, with new technologies and innovations emerging all the time. As the technology continues to advance, it will be important for organizations to stay up-to-date with emerging trends and technologies in order to remain competitive.
 
-In the next chapter, we will explore the importance of integrating conversational AI with robotic process automation to improve the efficiency and effectiveness of business processes.
