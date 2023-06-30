@@ -17,16 +17,6 @@ Chatbots are computer programs designed to simulate conversation with human user
 
 In robotics, chatbots can be used to provide real-time assistance to users who may have questions or need help with a specific task. This can improve efficiency and effectiveness in robotic process automation (RPA).
 
-How AI and Chatbots Can Improve Robotics
-----------------------------------------
-
-By combining AI and chatbots with robotics, machines can perform tasks more accurately and efficiently, resulting in better outcomes for the organization. Here are some ways that AI and chatbots can improve robotics:
-
-* Natural Language Processing: Chatbots can use natural language processing (NLP) to understand and interpret user queries in natural language. This can enable robots to engage in more natural and intuitive interactions with humans, making it easier for them to complete tasks.
-* Real-Time Assistance: Chatbots can provide real-time assistance to users who may have questions or need help with a specific task. This can minimize errors and delays, improving the overall efficiency of the RPA process.
-* Personalization: Chatbots can be programmed to personalize the interaction with users based on their preferences and behavior patterns. This can result in a more engaging and personalized experience for users, increasing satisfaction and loyalty.
-* Continuous Improvement: AI algorithms can be used to train robots to recognize patterns, make predictions, and perform complex tasks. Chatbots can be trained to learn from their interactions with users and improve over time, resulting in more accurate and efficient RPA processes.
-
 Conclusion
 ----------
 

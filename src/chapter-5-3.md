@@ -5,11 +5,6 @@ ChatGPT is an advanced natural language processing (NLP) model developed by Open
 
 In this chapter, we will explore how ChatGPT can be used for conversational AI in robotics and its potential impact on business processes.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a variant of the GPT (Generative Pre-trained Transformer) family of models, which are based on the transformer architecture. It was developed by OpenAI and has been trained on a large corpus of text data, enabling it to generate high-quality natural language responses.
-
 How Can ChatGPT be Used for Conversational AI in Robotics?
 ----------------------------------------------------------
 

@@ -3,11 +3,6 @@ How AI and Chatbots can Improve Robotic Process Automation
 
 In this chapter, we will explore the role of artificial intelligence (AI) and chatbots in robotics and how they can improve robotic process automation (RPA).
 
-What is Robotic Process Automation?
------------------------------------
-
-Robotic Process Automation (RPA) is a technology that enables robots to perform repetitive tasks automatically without human intervention. It involves the use of software programs or robots to automate routine, mundane, and repetitive tasks such as data entry, data processing, and report generation.
-
 The Role of AI in Robotics
 --------------------------
 
