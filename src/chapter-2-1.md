@@ -1,5 +1,3 @@
-Definition of Robotics Industry
-=======================================================================
 
 The robotics industry is a rapidly evolving field that involves the design, development, and production of robots. A robot is a machine that can be programmed to perform a wide range of tasks, from simple repetitive actions to complex decision-making processes.
 

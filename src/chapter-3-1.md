@@ -1,5 +1,3 @@
-Factors Affecting Robotics Industry
-===============================================================================
 
 In this chapter, we will explore the factors that are affecting the robotics industry and contributing to the challenges faced by organizations implementing robotic systems.
 

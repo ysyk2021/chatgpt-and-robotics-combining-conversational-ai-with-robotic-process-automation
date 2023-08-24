@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is a powerful conversational AI tool that can be used to enhance human-robot interaction and improve robotic process automation. In this chapter, we will discuss what ChatGPT is, its features and capabilities, and how it can be used for conversational AI in robotics.
 

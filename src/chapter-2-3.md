@@ -1,5 +1,3 @@
-Importance of Integrating Conversational AI with Robotic Process Automation
-===================================================================================================================
 
 In this chapter, we will cover the basics of the robotics industry and why integrating conversational AI with robotic process automation (RPA) is important for organizations.
 

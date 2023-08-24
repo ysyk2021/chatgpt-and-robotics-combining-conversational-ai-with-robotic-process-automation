@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Robotic Process Automation
-==============================================================================================================
 
 In this chapter, we will explore the role of artificial intelligence (AI) and chatbots in robotics and how they can improve robotic process automation (RPA).
 

@@ -1,5 +1,3 @@
-Explanation of Robotics Industry and Its Importance
-=================================================================
 
 The robotics industry is a rapidly evolving field that involves the design, development, and production of robots. Robots are machines that can be programmed to perform a wide range of tasks, from simple repetitive actions to complex decision-making processes.
 

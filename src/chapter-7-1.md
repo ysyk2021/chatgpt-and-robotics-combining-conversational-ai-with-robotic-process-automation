@@ -1,5 +1,3 @@
-Potential Advancements in Robotics Industry with ChatGPT
-=============================================================================================================
 
 The integration of ChatGPT with robotic process automation (RPA) has the potential to transform the robotics industry, enabling robots to engage in natural language conversations with humans and improving business processes. In this chapter, we will explore the potential advancements in the robotics industry with ChatGPT.
 

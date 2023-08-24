@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful conversational AI tool that can be used to enhance human-robot interaction and improve robotic process automation. In this chapter, we will discuss the features and capabilities of ChatGPT.
 

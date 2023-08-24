@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Robotics Industry
-===========================================================================================================
 
 In this chapter, we will explore the benefits of using artificial intelligence (AI) and chatbots in the robotics industry.
 

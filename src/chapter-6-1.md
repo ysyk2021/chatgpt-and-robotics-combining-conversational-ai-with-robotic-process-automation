@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Robotics Industry
-=====================================================================================================
 
 ChatGPT can be a valuable tool for the robotics industry, providing conversational AI to improve human-robot interaction and enhance robotic process automation. In this chapter, we will discuss the steps involved in implementing ChatGPT in the robotics industry.
 

@@ -1,5 +1,3 @@
-Different Types of Robots
-=================================================================
 
 In the robotics industry, there are several different types of robots used for various tasks. In this chapter, we will explore some of the most common types of robots.
 

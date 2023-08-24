@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book is about the combination of conversational AI with robotic process automation (RPA) and its impact on the robotics industry. The integration of conversational AI with RPA has the potential to transform business processes, improving efficiency, productivity, and customer experience.
 

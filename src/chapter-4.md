@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Robotics
-==================================================
 
 In this chapter, we will explore the role of artificial intelligence (AI) and chatbots in robotics, how they can improve robotic process automation (RPA), and the benefits they bring to the industry.
 

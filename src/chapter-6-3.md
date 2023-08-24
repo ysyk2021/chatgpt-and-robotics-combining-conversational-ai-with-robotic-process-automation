@@ -1,5 +1,3 @@
-Case Studies of Companies That Have Successfully Implemented ChatGPT in Their Robotic Systems
-===================================================================================================================================================
 
 Several companies have successfully implemented ChatGPT in their robotic systems, achieving improved efficiency, productivity, and customer satisfaction. In this chapter, we will explore some case studies of these companies.
 

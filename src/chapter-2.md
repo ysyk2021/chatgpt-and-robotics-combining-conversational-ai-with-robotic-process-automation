@@ -1,5 +1,3 @@
-Chapter 1: Basics of Robotics Industry
-======================================
 
 In this chapter, we will cover the basics of the robotics industry, including the definition of robotics, different types of robots, and the importance of integrating conversational AI with robotic process automation.
 

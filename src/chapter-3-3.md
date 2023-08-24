@@ -1,5 +1,3 @@
-Impact of These Challenges on Robot Performance
-===========================================================================================
 
 In this chapter, we will explore the challenges faced by the robotics industry and their impact on robot performance.
 

@@ -1,5 +1,3 @@
-Chapter 6: Future of Robotics Industry with ChatGPT
-===================================================
 
 ChatGPT has the potential to revolutionize the robotics industry, providing conversational AI to improve human-robot interaction and enhance robotic process automation. In this chapter, we will discuss potential advancements in the robotics industry with ChatGPT, emerging trends and challenges, and our future outlook.
 
