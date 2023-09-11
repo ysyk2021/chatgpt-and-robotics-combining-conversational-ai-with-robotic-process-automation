@@ -1,5 +1,4 @@
-Chapter 5: Steps to Implement ChatGPT in the Robotics Industry
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating ChatGPT, a powerful conversational AI, into the robotics industry can open up new possibilities for automation, customer support, and human-machine interaction. In this chapter, we will explore the key steps to successfully implement ChatGPT in the robotics sector.
 

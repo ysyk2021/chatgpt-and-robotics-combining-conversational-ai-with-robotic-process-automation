@@ -1,5 +1,4 @@
-Chapter 6: How ChatGPT Can Be Used for Conversational AI in Robotics
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating Conversational AI into robotics systems has the potential to revolutionize human-robot interactions and enhance the capabilities of robotic process automation (RPA). In this chapter, we'll explore how ChatGPT can be harnessed as a powerful tool for building conversational AI interfaces in the field of robotics.
 

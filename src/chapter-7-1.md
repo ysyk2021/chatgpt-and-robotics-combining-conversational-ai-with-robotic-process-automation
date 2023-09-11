@@ -1,5 +1,4 @@
-Chapter 8: Potential Advancements in the Robotics Industry with ChatGPT
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT into the robotics industry holds immense promise for driving innovation and advancement. In this chapter, we will explore the potential ways in which ChatGPT can revolutionize the field of robotics, enhancing capabilities, expanding applications, and shaping the future of automation.
 

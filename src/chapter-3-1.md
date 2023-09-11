@@ -1,5 +1,4 @@
-Chapter 5: Factors Affecting the Robotics Industry
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The robotics industry is dynamic and rapidly evolving, influenced by a myriad of factors that shape its growth and direction. In this chapter, we will explore some of the key factors affecting the robotics industry, from technological advancements to economic and societal trends.
 

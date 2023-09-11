@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Robotics Industry
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The robotics industry is a dynamic and rapidly evolving sector that encompasses the design, development, manufacturing, and application of robotic systems. These systems consist of mechanical, electrical, and software components, designed to perform tasks autonomously or semi-autonomously, often with the aim of replacing or assisting human labor. In this chapter, we will provide a comprehensive definition of the robotics industry, its key components, and its significance in various domains.
 

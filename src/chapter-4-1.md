@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and Chatbots have revolutionized the way businesses operate and interact with their customers. In this chapter, we will provide an overview of AI, its various applications, and the fundamental concepts behind chatbots.
 

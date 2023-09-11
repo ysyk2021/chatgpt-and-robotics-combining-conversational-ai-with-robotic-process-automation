@@ -1,5 +1,4 @@
-Chapter 2: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Before delving into the integration of ChatGPT with robotics and robotic process automation (RPA), it's essential to understand the features and capabilities that make ChatGPT a powerful conversational AI model. In this chapter, we'll explore the key aspects that define ChatGPT's functionality.
 

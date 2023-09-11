@@ -1,5 +1,4 @@
-Chapter 4: Benefits of Using AI and Chatbots for the Robotics Industry
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The fusion of Artificial Intelligence (AI) and chatbots with the robotics industry offers a multitude of advantages, transforming how robots operate, interact, and streamline processes. In this chapter, we will explore the significant benefits that this integration brings to the robotics sector.
 

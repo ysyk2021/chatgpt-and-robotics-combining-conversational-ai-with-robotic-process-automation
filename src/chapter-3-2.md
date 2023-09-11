@@ -1,5 +1,4 @@
-Chapter 7: Common Challenges Faced by Robotic Process Automation (RPA)
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Robotic Process Automation (RPA) is a transformative technology that streamlines business processes by automating repetitive tasks through software robots. However, the implementation of RPA comes with its own set of challenges. In this chapter, we will explore some of the common challenges faced by organizations when adopting RPA.
 

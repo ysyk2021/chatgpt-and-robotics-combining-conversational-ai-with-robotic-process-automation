@@ -1,5 +1,4 @@
-Chapter 9: Emerging Trends and Challenges in Robotics and ChatGPT
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the integration of ChatGPT with robotics and robotic process automation (RPA) continues to evolve, it's crucial to examine the emerging trends and challenges that shape the landscape of this dynamic field. In this chapter, we'll explore the latest developments and obstacles that researchers, developers, and industry professionals must navigate.
 

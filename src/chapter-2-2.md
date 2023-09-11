@@ -1,5 +1,4 @@
-Chapter 4: Different Types of Robots
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The world of robotics is diverse, with robots designed for various tasks, environments, and industries. In this chapter, we will explore the different types of robots, each tailored to specific applications and equipped with unique capabilities.
 

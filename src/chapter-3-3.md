@@ -1,5 +1,4 @@
-Chapter 8: Impact of Challenges on Robot Performance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the integration of ChatGPT with robotics and robotic process automation (RPA), various challenges arise that can significantly affect the performance of robots. In this chapter, we'll explore how these challenges can impact robot performance and the strategies to mitigate them.
 
